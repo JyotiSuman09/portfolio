@@ -1,0 +1,7 @@
+1. Vite application npm create Vite (https://vitejs.dev/)
+2. Tailwind installation (https://tailwindcss.com/docs/installation)
+3. npm install with tag --legacy-peer-deps to download older react versions or to download and use old react modules
+'npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom three'
+4. create logo in logo.com
+5. Edit constants.txt
+6. Models may break, so refresh
